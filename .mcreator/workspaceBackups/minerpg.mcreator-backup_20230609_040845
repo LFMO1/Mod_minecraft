@@ -1,0 +1,47 @@
+{
+  "mod_elements": [
+    {
+      "name": "Teste",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "teste",
+      "metadata": {
+        "files": [
+          "src/main/java/mine/rpg/item/TesteItem.java",
+          "src/main/resources/assets/minerpg/models/item/teste.json"
+        ]
+      }
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "item.minerpg.teste": "Teste"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "minerpg",
+    "modName": "mineRPG",
+    "version": "1.0.0",
+    "author": "luis, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.19.2",
+    "credits": "Created using mod maker MCreator - https://mcreator.net/about",
+    "modElementsPackage": "mine.rpg",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202300110610
+}
